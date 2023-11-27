@@ -1,6 +1,7 @@
 # app.py
 # Create a FastAPI endpoint ar route localhost/swuare for function square that returns the squared value of the variable input of the payload json
 # 2023-11-17, J J. Köppern
+# forked
 
 # Import statements
 from fastapi import FastAPI, HTTPException
